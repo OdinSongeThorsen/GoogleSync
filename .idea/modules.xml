@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSync.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSync_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSync_main.iml" group="GoogleSync" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleSync_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleSync_test.iml" group="GoogleSync" />
+    </modules>
+  </component>
+</project>

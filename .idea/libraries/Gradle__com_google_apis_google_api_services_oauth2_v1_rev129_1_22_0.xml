@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.apis:google-api-services-oauth2:v1-rev129-1.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-oauth2/v1-rev129-1.22.0/5674702f375d9fa91b7bcf01cfaf452a8baf5dd2/google-api-services-oauth2-v1-rev129-1.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-oauth2/v1-rev129-1.22.0/7bbcdf5dd38667877ed5fd4e554f33be48d5884d/google-api-services-oauth2-v1-rev129-1.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
